@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial 365 Telemetry website"
+git branch -M main
+git remote add origin https://github.com/<your-username>/365telemetry.git
+git push -u origin main
